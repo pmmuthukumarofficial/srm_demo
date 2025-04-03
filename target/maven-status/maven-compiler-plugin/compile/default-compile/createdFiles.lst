@@ -1,0 +1,6 @@
+com\example\srmschool\controller\StudentController.class
+com\example\srmschool\service\StudentServiceImpl.class
+com\example\srmschool\service\StudentService.class
+com\example\srmschool\repository\StudentRepository.class
+com\example\srmschool\SrmschoolApplication.class
+com\example\srmschool\model\Student.class
